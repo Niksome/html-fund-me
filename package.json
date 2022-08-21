@@ -1,0 +1,8 @@
+{
+  "name": "html-fund-me",
+  "author": "Andrej Ermoshkin",
+  "version": "1.0.0",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
